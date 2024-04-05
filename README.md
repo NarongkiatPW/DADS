@@ -11,9 +11,9 @@ Code: https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDra
       <a href="#about-the-course">About The Course</a>
     </li>
     <li>
-      <a href="#about-the-project">Plotly Assignment</a>
+      <a href="#plotly-assignment">Plotly Assignment</a>
       <ul>
-        <li><a href="#built-with">Top_100_KoreanDrama_Visualization</a></li>
+        <li><a href="#Top-100-KoreanDrama-Visualization">Top_100_KoreanDrama_Visualization</a></li>
       </ul>
     </li>
   </ol>
