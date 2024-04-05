@@ -25,13 +25,36 @@
 
 <!-- Plotly Assignment-->
 ## Plotly Assignment
-  Collecting the assignment to send all to professor
+  Collecting the all assignment about Plotly to send to professor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Top_100_KoreanDrama_Visualization
-  Code Link: https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
+  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
 
+
+\
+  <b>1. Post the image of your chart</b> \
   ![image](https://github.com/NarongkiatPW/DADS/assets/158708499/a85d4a46-2aa2-4c50-afce-0686c81a98f6)
+
+  <b>2. Explain your data sources</b> \
+  \
+  About Dataset show the 100 Korean drama that had the highest rating, on-air, and actors as shown on MyDramaList website\
+(<b>Link of dataset:</b> https://www.kaggle.com/datasets/chanoncharuchinda/top-100-korean-drama-mydramalist )
+\
+\
+\
+  <b>3. Explain why choose the chart with your data</b> \
+  \
+  From the heatmap above, you can see the details of the 'Top 100 Korean Dramas: Average On-Air Ratings for Each Day and Year.' I chose this chart because it presents three dimensions of data: 
+  1. the Average Rating,
+  2. Year, and
+  3. On-Air Day
+  
+
+  which are related to my interest in identifying the maximum average rating for each on-air day. This information is crucial for advertisers looking to purchase airtime to showcase ads and capitalize on potential opportunities. \
+  \
+  According to the analyzed data, the maximum of average rating on 'Wednesday and Thursday' arounds 8.77 ratings as continuously increasing rating over the past years. and the second highest average on 'Monday and Tuesday' is 8.71 ratings respectively.
+  
