@@ -12,7 +12,7 @@
     <li>
       <a href="#plotly-assignment">Plotly Assignment</a>
       <ul>
-        <li><a href="#Top-100-KoreanDrama-Visualization">Top 100 KoreanDrama Visualization</a></li>
+        <li><a href="#Top_100_KoreanDrama_Visualization">Top 100 KoreanDrama Visualization</a></li>
       </ul>
     </li>
   </ol>
