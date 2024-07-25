@@ -23,16 +23,15 @@
     <li>
       <a href="#dashboard">Final Project</a>
       <ul>
-        <li><a href="#Bank_Statement_Control_Dashboard">Bank Statement Control Dashboard</a></li>
+        <li><a href="#Bank-Statement-Control-Dashboard">Bank Statement Control Dashboard</a></li>
         <ul>
-          <li><a href="#Flow_Tool">Flow of Tools</a></li>
+          <li><a href="#Flow-Tool">Flow of Tools</a></li>
         </ul>
         <ul>
           <li><a href="#Dashboard_Preview">Dashboard Preview</a></li>
         </ul>
       </ul>
     </li>
-  <li>
   </ol>
 
 <!-- ABOUT THE COURSE -->
