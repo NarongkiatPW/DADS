@@ -3,7 +3,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-  <summary>Table of Contents</summary>
+  <summary><b>Table of Contents</b></summary>
   <ol>
     <li>
       <a href="#about-the-course">About The Course</a>
@@ -44,46 +44,46 @@
   EDA (Exploratory Data Analysis) used Numpy and Pandas Libraries of Python
 
 ### English_Premier_League
-<details>
-  <summary>For the detail</summary>
+  <summary><b>For the detail</b></summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;Summary: Use the Nuumpy and Pandas to explore the data to answer. Additionally, EDA, Creative the question, and solve it! 
+  
   <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/EDA_EnglishPremierLeague.ipynb
   
-</details>
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Plotly Assignment-->
 ## Plotly Assignment
-  Collecting the all assignment about Plotly to send to professor
+  Built the interaction graph by using Plotly library of Python
 
 
 ### Top_100_KoreanDrama_Visualization
-  <summary>For the detail</summary>
-  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
 
-
-\
+  &nbsp;&nbsp;<summary><b>For the detail</b></summary>
+  &nbsp;&nbsp;<b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
+  
   <b>1. Post the image of your chart</b> \
   ![image](https://github.com/NarongkiatPW/DADS/assets/158708499/a85d4a46-2aa2-4c50-afce-0686c81a98f6)
 
-  <b>2. Explain your data sources</b> \
+  &nbsp;&nbsp;&nbsp;&nbsp;<b>2. Explain your data sources</b> \
   \
-  About Dataset show the 100 Korean drama that had the highest rating, on-air, and actors as shown on MyDramaList website\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Dataset show the 100 Korean drama that had the highest rating, on-air, and actors as shown on MyDramaList website\
 (<b>Link of dataset:</b> https://www.kaggle.com/datasets/chanoncharuchinda/top-100-korean-drama-mydramalist )
 \
 \
 \
-  <b>3. Explain why choose the chart with your data</b> \
+  &nbsp;&nbsp;&nbsp;&nbsp;<b>3. Explain why choose the chart with your data</b> \
   \
-  From the heatmap above, you can see the details of the 'Top 100 Korean Dramas: Average On-Air Ratings for Each Day and Year.' I chose this chart because it presents three dimensions of data: 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the heatmap above, you can see the details of the 'Top 100 Korean Dramas: Average On-Air Ratings for Each Day and Year.' I chose this chart because it presents three dimensions of data: 
   1. the Average Rating,
   2. Year, and
   3. On-Air Day
   
 
-  which are related to my interest in identifying the maximum average rating for each on-air day. This information is crucial for advertisers looking to purchase airtime to showcase ads and capitalize on potential opportunities. \
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which are related to my interest in identifying the maximum average rating for each on-air day. This information is crucial for advertisers looking to purchase airtime to showcase ads and capitalize on potential opportunities. \
   \
-  According to the analyzed data, the maximum of average rating on 'Wednesday and Thursday' arounds 8.77 ratings as continuously increasing rating over the past years. and the second highest average on 'Monday and Tuesday' is 8.71 ratings respectively.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to the analyzed data, the maximum of average rating on 'Wednesday and Thursday' arounds 8.77 ratings as continuously increasing rating over the past years. and the second highest average on 'Monday and Tuesday' is 8.71 ratings respectively.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,13 +93,14 @@
   \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Built the Bank Statement Dashboard for controlling the bank received and payment. Addtionally, reconciliation between GL (accountant recorded the document) and Bank Statement by using Plotly and Dash Libraries of Python to build the Dashboard
   \
+  \
   **:red_circle: As our team opinion, We can not disclose the company's confidential information (Datasources). :red_circle:**
   \
   **:red_circle: For my main responsibility created test case and built the Bank Statement Dashboard from datasource that my friends built :red_circle:**
 
 
 ### Bank Statement Control Dashboard
-  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Dashboard_BankStatementControl_Project.py
+  &nbsp;&nbsp;<b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Dashboard_BankStatementControl_Project.py
   \
   #### Flow Tool
   ![Screenshot 2024-07-25 233901](https://github.com/user-attachments/assets/ba92ca64-978d-4b4a-81e6-8a42cc6c4858)
