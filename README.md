@@ -36,7 +36,9 @@
 
 <!-- ABOUT THE COURSE -->
 ## About The Course
-  This course is study and practice various programming concepts, methods, and techniques. To make the program work efficiently, Learn uses the necessary data analytics and data science tools (Ref. Program Details on https://as.nida.ac.th/)
+  &nbsp;&nbsp;&nbsp;&nbsp;This course is study and practice various programming concepts, methods, and techniques. To make the program work efficiently, Learn uses the necessary data analytics and data science tools 
+  \
+  <b>Reference: Program Details on https://as.nida.ac.th/</b>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- EDA -->
