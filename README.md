@@ -10,9 +10,9 @@
       <a href="#about-the-course">About The Course</a>
     </li>
     <li>
-      <a href="#eda">EDA by Python Assignment</a>
+      <a href="#dashboard">EDA by Python Assignment</a>
       <ul>
-        <li><a href="#Top_100_KoreanDrama_Visualization">Top 100 KoreanDrama Visualization</a></li>
+        <li><a href="#English_Premier_Leaguen">English_Premier_League</a></li>
       </ul>
     </li>
     <li>
@@ -21,6 +21,13 @@
         <li><a href="#Top_100_KoreanDrama_Visualization">Top 100 KoreanDrama Visualization</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#eda">Final Project</a>
+      <ul>
+        <li><a href="#Bank_Statement_Control_Dashboard">Bank Statement Control Dashboard</a></li>
+      </ul>
+    </li>
+    <li>
   </ol>
 </details>
 
@@ -75,6 +82,24 @@
   which are related to my interest in identifying the maximum average rating for each on-air day. This information is crucial for advertisers looking to purchase airtime to showcase ads and capitalize on potential opportunities. \
   \
   According to the analyzed data, the maximum of average rating on 'Wednesday and Thursday' arounds 8.77 ratings as continuously increasing rating over the past years. and the second highest average on 'Monday and Tuesday' is 8.71 ratings respectively.
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- dashboard -->
+## Final Project
+  Built the Bank Statement Dashboard for controlling the bank received and payment. Addtionally, reconciliation between GL (accountant recorded the document) and Bank Statement by using Plotly and Dash Libraries of Python to build the Dashboard
+  \
+  <b style="color: red;">** As our team opinion, We can not disclose the company's confidential information (Datasources). **</b>
+  \
+  <b style="color: red;">** For my Responsibility built the Dashboard **</b>
+
+
+### Bank Statement Control Dashboard
+<details>
+  <summary>For the detail</summary>
+  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/EDA_EnglishPremierLeague.ipynb
+  
 </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
