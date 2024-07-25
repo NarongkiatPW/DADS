@@ -10,6 +10,12 @@
       <a href="#about-the-course">About The Course</a>
     </li>
     <li>
+      <a href="#eda">EDA by Python Assignment</a>
+      <ul>
+        <li><a href="#Top_100_KoreanDrama_Visualization">Top 100 KoreanDrama Visualization</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#plotly-assignment">Plotly Assignment</a>
       <ul>
         <li><a href="#Top_100_KoreanDrama_Visualization">Top 100 KoreanDrama Visualization</a></li>
@@ -23,6 +29,12 @@
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- EDA -->
+## EDA by Python Assignment
+  EDA (Exploratory Data Analysis) used Numpy and Pandas Libraries of Python
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Plotly Assignment-->
 ## Plotly Assignment
   Collecting the all assignment about Plotly to send to professor
@@ -31,7 +43,9 @@
 
 
 
-### Top_100_KoreanDrama_Visualization
+### 1. Top_100_KoreanDrama_Visualization
+<details>
+  <summary>For the detail</summary>
   <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
 
 
@@ -57,4 +71,4 @@
   which are related to my interest in identifying the maximum average rating for each on-air day. This information is crucial for advertisers looking to purchase airtime to showcase ads and capitalize on potential opportunities. \
   \
   According to the analyzed data, the maximum of average rating on 'Wednesday and Thursday' arounds 8.77 ratings as continuously increasing rating over the past years. and the second highest average on 'Monday and Tuesday' is 8.71 ratings respectively.
-  
+</details>
