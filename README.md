@@ -28,7 +28,7 @@
           <li><a href="#Flow-Tool">Flow of Tools</a></li>
         </ul>
         <ul>
-          <li><a href="#Dashboard_Preview">Dashboard Preview</a></li>
+          <li><a href="#dashboard-preview">Dashboard Preview</a></li>
         </ul>
       </ul>
     </li>
