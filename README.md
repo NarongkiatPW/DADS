@@ -3,7 +3,6 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -22,14 +21,19 @@
       </ul>
     </li>
     <li>
-      <a href="#eda">Final Project</a>
+      <a href="#dashboard">Final Project</a>
       <ul>
         <li><a href="#Bank_Statement_Control_Dashboard">Bank Statement Control Dashboard</a></li>
+        <ul>
+          <li><a href="#Flow_Tool">Flow of Tools</a></li>
+        </ul>
+        <ul>
+          <li><a href="#Dashboard_Preview">Dashboard Preview</a></li>
+        </ul>
       </ul>
     </li>
   <li>
   </ol>
-</details>
 
 <!-- ABOUT THE COURSE -->
 ## About The Course
@@ -55,7 +59,6 @@
 
 
 ### Top_100_KoreanDrama_Visualization
-<details>
   <summary>For the detail</summary>
   <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
 
@@ -82,26 +85,29 @@
   which are related to my interest in identifying the maximum average rating for each on-air day. This information is crucial for advertisers looking to purchase airtime to showcase ads and capitalize on potential opportunities. \
   \
   According to the analyzed data, the maximum of average rating on 'Wednesday and Thursday' arounds 8.77 ratings as continuously increasing rating over the past years. and the second highest average on 'Monday and Tuesday' is 8.71 ratings respectively.
-</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- dashboard -->
 ## Final Project
-  Built the Bank Statement Dashboard for controlling the bank received and payment. Addtionally, reconciliation between GL (accountant recorded the document) and Bank Statement by using Plotly and Dash Libraries of Python to build the Dashboard
+  <b> Summary </b>
+  \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Built the Bank Statement Dashboard for controlling the bank received and payment. Addtionally, reconciliation between GL (accountant recorded the document) and Bank Statement by using Plotly and Dash Libraries of Python to build the Dashboard
   \
   **:red_circle: As our team opinion, We can not disclose the company's confidential information (Datasources). :red_circle:**
   \
-  **:red_circle: For my main responsibility built the Bank Statement Dashboard from datasource that my friends built :red_circle:**
+  **:red_circle: For my main responsibility created test case and built the Bank Statement Dashboard from datasource that my friends built :red_circle:**
 
 
 ### Bank Statement Control Dashboard
   <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Dashboard_BankStatementControl_Project.py
   \
-  \
+  #### Flow Tool
   ![Screenshot 2024-07-25 233901](https://github.com/user-attachments/assets/ba92ca64-978d-4b4a-81e6-8a42cc6c4858)
-  \
   
+  #### Dashboard Preview
+  ![Bank Statement Control_Dashboard - Blur](https://github.com/user-attachments/assets/12ac2b86-5937-49ec-9e0a-59250d7638ee)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
