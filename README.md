@@ -27,7 +27,7 @@
         <li><a href="#Bank_Statement_Control_Dashboard">Bank Statement Control Dashboard</a></li>
       </ul>
     </li>
-    <li>
+  <li>
   </ol>
 </details>
 
@@ -90,16 +90,18 @@
 ## Final Project
   Built the Bank Statement Dashboard for controlling the bank received and payment. Addtionally, reconciliation between GL (accountant recorded the document) and Bank Statement by using Plotly and Dash Libraries of Python to build the Dashboard
   \
-  <b style="color: red;">** As our team opinion, We can not disclose the company's confidential information (Datasources). **</b>
+  **:red_circle: As our team opinion, We can not disclose the company's confidential information (Datasources). :red_circle:**
   \
-  <b style="color: red;">** For my Responsibility built the Dashboard **</b>
+  **:red_circle: For my main responsibility built the Bank Statement Dashboard from datasource that my friends built :red_circle:**
 
 
 ### Bank Statement Control Dashboard
-<details>
-  <summary>For the detail</summary>
-  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/EDA_EnglishPremierLeague.ipynb
+  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Dashboard_BankStatementControl_Project.py
+  \
+  \
+  ![Screenshot 2024-07-25 233901](https://github.com/user-attachments/assets/ba92ca64-978d-4b4a-81e6-8a42cc6c4858)
+  \
   
-</details>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
