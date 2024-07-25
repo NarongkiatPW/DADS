@@ -33,17 +33,21 @@
 ## EDA by Python Assignment
   EDA (Exploratory Data Analysis) used Numpy and Pandas Libraries of Python
 
+### English_Premier_League
+<details>
+  <summary>For the detail</summary>
+  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
+  
+</details>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Plotly Assignment-->
 ## Plotly Assignment
   Collecting the all assignment about Plotly to send to professor
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### 1. Top_100_KoreanDrama_Visualization
+### Top_100_KoreanDrama_Visualization
 <details>
   <summary>For the detail</summary>
   <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
@@ -72,3 +76,5 @@
   \
   According to the analyzed data, the maximum of average rating on 'Wednesday and Thursday' arounds 8.77 ratings as continuously increasing rating over the past years. and the second highest average on 'Monday and Tuesday' is 8.71 ratings respectively.
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
