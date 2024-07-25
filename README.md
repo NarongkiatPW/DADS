@@ -36,7 +36,7 @@
 ### English_Premier_League
 <details>
   <summary>For the detail</summary>
-  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/Top_100_KoreanDrama_Visualization.ipynb
+  <b>Code Link:</b> https://github.com/NarongkiatPW/DADS/blob/DADS5001_Tools/EDA_EnglishPremierLeague.ipynb
   
 </details>
 
